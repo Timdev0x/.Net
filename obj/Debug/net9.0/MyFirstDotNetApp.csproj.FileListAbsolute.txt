@@ -1,0 +1,17 @@
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\bin\Debug\net9.0\MyFirstDotNetApp.exe
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\bin\Debug\net9.0\MyFirstDotNetApp.deps.json
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\bin\Debug\net9.0\MyFirstDotNetApp.runtimeconfig.json
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\bin\Debug\net9.0\MyFirstDotNetApp.dll
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\bin\Debug\net9.0\MyFirstDotNetApp.pdb
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\obj\Debug\net9.0\MyFirstDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\obj\Debug\net9.0\MyFirstDotNetApp.AssemblyInfoInputs.cache
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\obj\Debug\net9.0\MyFirstDotNetApp.AssemblyInfo.cs
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\obj\Debug\net9.0\MyFirstDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\obj\Debug\net9.0\MyFirstDotNetApp.dll
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\obj\Debug\net9.0\refint\MyFirstDotNetApp.dll
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\obj\Debug\net9.0\MyFirstDotNetApp.pdb
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\obj\Debug\net9.0\MyFirstDotNetApp.genruntimeconfig.cache
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\obj\Debug\net9.0\ref\MyFirstDotNetApp.dll
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\obj\Debug\net9.0\MyFirstDotNetApp.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Tim\Desktop\Net\MyFirstDotNetApp\obj\Debug\net9.0\MyFirstD.65EA6D64.Up2Date
